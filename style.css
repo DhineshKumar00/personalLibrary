@@ -1,0 +1,29 @@
+body{
+    background-image: url("library1.jpg");
+    background-size: cover;
+    color: rgb(47, 255, 6);
+    text-align: center;
+ }
+
+ *{
+    text-align: left;
+    text-decoration: italic;
+ }
+ .container{
+    text-align: center;
+ }
+ .year{
+  text-align: center;
+ }
+ #form-control{
+    text-align: left;
+ }
+ table{
+    background-color:aquamarine ;
+ }
+ .model{
+    color:black;
+ }
+ #form-control{
+    size: 50%;
+ }
